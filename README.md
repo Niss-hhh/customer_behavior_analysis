@@ -31,13 +31,20 @@ It demonstrates a complete analytics workflow — from **data cleaning and trans
 ## 📂 Project Structure  
 
 ```bash
+
 customer-behavior-analysis/
 
-├── SQL/
-├── Python/
-├── PowerBI/
-├── Dataset/
-└── README.md
+├── Dataset/             
+├── PowerBI/            
+├── SQL/               
+├── python/           
+├── images/           
+
+├── index.html          
+├── style.css           
+├── script.js            
+
+└── README.md          
 ```
 
 ## 🔍 Key Dashboard Metrics  

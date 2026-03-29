@@ -123,6 +123,8 @@ customer-behavior-analysis/
 - Building business-focused dashboards  
 
 ---
+🌐 **Live Demo:** https://niss-hhh.github.io/customer_behavior_analysis/
+
 
 ## 🙌 Conclusion  
 
